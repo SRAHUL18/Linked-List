@@ -347,7 +347,7 @@ public class Main {
           for(int i=0;i<this.size;i++){
             int val=this.getFirst();
             this.removeFirst();
-            curr.addLastt(val);
+            curr.addLast(val);
           }
 
         }
